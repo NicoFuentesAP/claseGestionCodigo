@@ -1,0 +1,5 @@
+.breakpoint
+.replit
+*.class
+*.nix
+venv/*
